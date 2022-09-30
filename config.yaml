@@ -1,5 +1,6 @@
 baseURL: jacob30.github.io
 languageCode: en-us 
+canonifyURLs: true
 title: Acme Corporation 
 theme: Universal 
 author: 
